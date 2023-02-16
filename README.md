@@ -5,3 +5,4 @@ Guest, can only see the books and read it, if they want to give reviews to that 
 
 Every user, reviews, and books data will be saved to database, and only the admins user that can do CRUD operation to them.
 # API Documentation
+## Get All Post
